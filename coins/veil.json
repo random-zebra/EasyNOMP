@@ -1,0 +1,9 @@
+{
+    "name": "Veil",
+    "symbol": "VEIL",
+    "algorithm": "x16rt",
+    "explorerGetBlockJSON": "https://veil-testnet.randomzebra.party/api/block/",
+    "explorerGetBlock": "https://veil-testnet.randomzebra.party/block/",
+    "explorerGetTX": "https://veil-testnet.randomzebra.party/api/tx/{0}&decrypt=1",
+    "blockTime": 60
+}
